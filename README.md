@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @devesh12shukla
+- 🎓 2nd Year CSE student at MIT Manipal.
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning C and Java
 - 📫 Reach me at shukladevesh012@gmail.com 
